@@ -23,7 +23,7 @@ while validacion == False:
         num_n = int(num_n)
         validacion = True
     else:
-        num_n = (input("Not valis. Insert a number to check if is in The Fibonacci Sequence: \n ==>  "))
+        num_n = (input("Not valid. Insert a number to check if is in The Fibonacci Sequence: \n ==>  "))
     
 
 #Variables:

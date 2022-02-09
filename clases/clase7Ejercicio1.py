@@ -39,7 +39,7 @@
     else:
         number_to_verify = input("Not valid. Insert a number") '''
 
-#Variables:  
+''' #Variables:  
 
 num_n = ()
 divider_list = []
@@ -66,8 +66,7 @@ for x in range(2, num_n):
     print("All the dividers of the number", num_n, "are", divider_list)
 
 #Divisores primos
-for x in range(divider_list):
-    if 
+    if '''
 
 
 
