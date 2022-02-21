@@ -123,22 +123,6 @@ def cuadrados(num_n):
 
 cuadrados(num_n)
 
-#repunit:
-
-def repunit(num_n):
-    cont = 0
-    num_str = str(num_n)
-    for x in range(len(num_str)):
-        if num_str[x] == 1: 
-            cont += 1
-        elif x !=1:
-            print(num_n, 'no es un repunit')
-            break
-    if cont == len(num_str):
-        print(num_n, 'es repunit')
-
-repunit(num_n)
-
 
 
     
